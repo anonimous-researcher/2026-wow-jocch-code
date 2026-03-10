@@ -1,0 +1,12 @@
+ID,LANGUAGE,MODEL,TYPE
+M1,IT,knowledgator/comprehend_it-multilingual-t5-base,NLI
+M2,IT,MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7,NLI
+M3,IT,MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli,NLI
+M4,IT,mjwong/multilingual-e5-base-xnli-anli,NLI
+M5,EN,knowledgator/comprehend_it-base,NLI
+M6,EN,facebook/bart-large-mnli,NLI
+M7,EN,MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,NLI
+M8,EN,MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33,NLI
+D1,MULTI,mistralai/Mistral-7B-Instruct-v0.3,DECODER
+D2,MULTI,Qwen/Qwen2.5-7B-Instruct,DECODER
+D3,MULTI,microsoft/Phi-3.5-mini-instruct,DECODER

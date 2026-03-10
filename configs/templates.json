@@ -1,0 +1,10 @@
+[
+    { "ID": "T0", "template": "{}", "localization": false },
+    {
+        "ID": "T1",
+        "template": "One topic of the text is {}",
+        "localization": true,
+        "EN": "One topic of the text is {}",
+        "IT": "Un tema del testo è {}"
+    }
+]

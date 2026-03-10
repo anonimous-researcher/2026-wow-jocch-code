@@ -1,0 +1,7 @@
+ID,LANGUAGE,PATH
+quotes_k_it,IT,data/quotes_k_it.csv
+quotes_c_it,IT,data/quotes_c_it.csv
+quotes_k_en,EN,data/quotes_k_en.csv
+quotes_c_en,EN,data/quotes_c_en.csv
+quotes_k_en_nmt,EN,data/quotes_k_en_nmt.csv
+quotes_c_en_nmt,EN,data/quotes_c_en_nmt.csv
