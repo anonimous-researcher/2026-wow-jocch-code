@@ -1,1 +1,1 @@
-# 2025_JOCCH_WOW_code
+# Experimental Evaluation reported in "How Do LMs Extract Meaning from Narrative Literature? Exploring Entailment-Driven Extraction from Autobiographical Writings"
